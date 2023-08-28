@@ -1,0 +1,31 @@
+.carousel-bg{
+    background-image:url('../components/images/pngtree-cute-little-fresh-dandelion-grass-carousel-background-poster-image_200556.jpg');
+    width:100%;
+
+}
+.carousel-caption {
+    position: initial;
+  }
+  .carousel-control.left, .carousel-control.right {
+    background: transparent;
+  }
+
+  .item h3,
+.item p {
+  color: black;
+}
+
+.item h3 {
+  margin-top: 150px;
+  font-size: 45px;
+  font-weight: 900;
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.item p {
+  font-size: 25px;
+  text-align: center;
+}
+
